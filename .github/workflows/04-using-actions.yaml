@@ -23,6 +23,3 @@ jobs:
 
           - name: Lint Code
             run: npm run lint
-            # continue-on-error: true
-      #0. Checkout the code from the repository
-      #1. Install deps of react app
